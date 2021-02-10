@@ -43,6 +43,7 @@ public class Robot extends TimedRobot {
      * less accurate rates than lower values.
      */
     m_encoder.setSamplesToAverage(5);
+    System.out.println("Hello World");
 
     /*
      * Defines how far the mechanism attached to the encoder moves per pulse. In
