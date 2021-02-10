@@ -62,7 +62,7 @@ public class Robot extends TimedRobot {
      */
     m_encoder.setMinRate(1.0);
   }
-
+    //Added a new comment AJ
   @Override
   public void teleopPeriodic() {
     SmartDashboard.putNumber("Encoder Distance", m_encoder.getDistance());
