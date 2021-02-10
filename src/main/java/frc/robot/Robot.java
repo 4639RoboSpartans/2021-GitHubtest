@@ -9,6 +9,8 @@ import edu.wpi.first.wpilibj.Encoder;
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
+
+//Added comment AJ
 /**
  * Sample program displaying the value of a quadrature encoder on the SmartDashboard. Quadrature
  * Encoders are digital sensors which can detect the amount the encoder has rotated since starting
