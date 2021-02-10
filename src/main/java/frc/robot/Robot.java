@@ -71,3 +71,5 @@ public class Robot extends TimedRobot {
     SmartDashboard.putNumber("Encoder Rate", m_encoder.getRate());
   }
 }
+// Adding new encoders
+// Be careful. Do not delete this line
