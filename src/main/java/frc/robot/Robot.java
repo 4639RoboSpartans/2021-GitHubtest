@@ -9,7 +9,7 @@ import edu.wpi.first.wpilibj.Encoder;
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
-
+//Change in my side
 //Added comment AJ - FRC
 /**
  * Sample program displaying the value of a quadrature encoder on the SmartDashboard. Quadrature
