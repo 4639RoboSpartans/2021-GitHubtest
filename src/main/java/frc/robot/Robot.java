@@ -9,7 +9,7 @@ import edu.wpi.first.wpilibj.Encoder;
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
-
+//Change in my side
 //Added comment AJ - FRC
 /**
  * Sample program displaying the value of a quadrature encoder on the SmartDashboard. Quadrature
@@ -46,6 +46,7 @@ public class Robot extends TimedRobot {
      */
     m_encoder.setSamplesToAverage(5);
     System.out.println("Hello World");
+    //Change number 2
 
     /*
      * Defines how far the mechanism attached to the encoder moves per pulse. In
@@ -71,4 +72,9 @@ public class Robot extends TimedRobot {
     SmartDashboard.putNumber("Encoder Rate", m_encoder.getRate());
   }
 }
+
 ///A comment on the branch
+
+// Adding new encoders
+// Be careful. Do not delete this line
+// Mr Millan Comment
